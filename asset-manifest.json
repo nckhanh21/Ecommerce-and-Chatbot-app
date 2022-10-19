@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.74547cdc.chunk.css",
-    "main.js": "/static/js/main.d723cdd8.chunk.js",
-    "main.js.map": "/static/js/main.d723cdd8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.06dcda2b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.06dcda2b.js.map",
-    "static/js/2.9dd8bbba.chunk.js": "/static/js/2.9dd8bbba.chunk.js",
-    "static/js/2.9dd8bbba.chunk.js.map": "/static/js/2.9dd8bbba.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.74547cdc.chunk.css.map": "/static/css/main.74547cdc.chunk.css.map",
-    "static/js/2.9dd8bbba.chunk.js.LICENSE.txt": "/static/js/2.9dd8bbba.chunk.js.LICENSE.txt"
+    "main.css": "/Ecommerce-and-Chatbot-app/static/css/main.d27f7695.chunk.css",
+    "main.js": "/Ecommerce-and-Chatbot-app/static/js/main.e5028095.chunk.js",
+    "main.js.map": "/Ecommerce-and-Chatbot-app/static/js/main.e5028095.chunk.js.map",
+    "runtime-main.js": "/Ecommerce-and-Chatbot-app/static/js/runtime-main.a7cc68c8.js",
+    "runtime-main.js.map": "/Ecommerce-and-Chatbot-app/static/js/runtime-main.a7cc68c8.js.map",
+    "static/js/2.1c294be8.chunk.js": "/Ecommerce-and-Chatbot-app/static/js/2.1c294be8.chunk.js",
+    "static/js/2.1c294be8.chunk.js.map": "/Ecommerce-and-Chatbot-app/static/js/2.1c294be8.chunk.js.map",
+    "index.html": "/Ecommerce-and-Chatbot-app/index.html",
+    "static/css/main.d27f7695.chunk.css.map": "/Ecommerce-and-Chatbot-app/static/css/main.d27f7695.chunk.css.map",
+    "static/js/2.1c294be8.chunk.js.LICENSE.txt": "/Ecommerce-and-Chatbot-app/static/js/2.1c294be8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06dcda2b.js",
-    "static/js/2.9dd8bbba.chunk.js",
-    "static/css/main.74547cdc.chunk.css",
-    "static/js/main.d723cdd8.chunk.js"
+    "static/js/runtime-main.a7cc68c8.js",
+    "static/js/2.1c294be8.chunk.js",
+    "static/css/main.d27f7695.chunk.css",
+    "static/js/main.e5028095.chunk.js"
   ]
 }
