@@ -2,7 +2,7 @@
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nckhanh21.github.io/Ecommerce-and-Chatbot-app",
+  "homepage": "https://nckhanh21.github.io/ecommerce-chatbot",
   "dependencies": {
     "@auth0/auth0-react": "^1.2.0",
     "@craco/craco": "^6.0.0",
@@ -25,6 +25,7 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
