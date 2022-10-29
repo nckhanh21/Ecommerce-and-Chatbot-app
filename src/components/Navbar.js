@@ -4,7 +4,9 @@ import { useAuth0 } from '@auth0/auth0-react'
 import {StoreContext} from '../context/index'
 
 const LoginButton = () => {
-    const { loginWithRedirect } = useAuth0()
+    const loginWithRedirect = () => {
+        alert('Chúng tôi chưa phát triển chức năng đăng nhập :))')
+    }
     return (
         <button className="flex text-2xl items-center lg:text-xl gap-3" onClick={loginWithRedirect}>
             Login
@@ -70,7 +72,7 @@ function Navbar() {
         <header>
             <div className="tw-container h-16 md:h-20 flex justify-between items-center">
                 <Link to="/" className="flex items-center gap-2 font-semibold text-blue-500">
-                    <i className="fa-2x fas fa-chair"></i>
+                    <i className="fa-2x fas fa-glasses"></i>
                     Fashion & Consulting 
                 </Link>
                 <nav className="hidden md:block">
